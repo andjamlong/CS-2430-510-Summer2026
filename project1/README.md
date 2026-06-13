@@ -64,4 +64,4 @@ git clone <your-repo-url>
 # Open the project in your IDE
 
 # Run the main class
-Run Project1.java (or your main driver class)
+Run Project1.java

@@ -40,3 +40,28 @@ The project includes JUnit tests that check:
 Small arrays (basic correctness)
 Larger arrays (scalability)
 Arrays with duplicate values (edge cases)
+
+## Link to Project Video:
+https://youtu.be/64ZeFRgfGGs
+
+
+## Build information
+JavaSE-21
+created using the Eclipse IDE
+
+## How to Run
+
+### Requirements
+- Java JDK 8 or higher
+- JUnit 4 or 5 (for testing)
+- Any Java IDE (IntelliJ IDEA, Eclipse, NetBeans)
+
+### Steps
+```bash
+# Clone the repository
+git clone <your-repo-url>
+
+# Open the project in your IDE
+
+# Run the main class
+Run Project1.java (or your main driver class)

@@ -58,4 +58,4 @@ git clone <your-repo-url>
 # Open the project in your IDE
 
 # Run the main class
-Run Project2.java
+Run Main.java

@@ -37,7 +37,7 @@ The program than compares the results of the greedy approaches to the optimal so
 As extra credit I include a dynamic programming approach, which as stated above uses a table to help determine the optimal solution, a method with a much larger scalability. 
 
 ## Link to Project Video:
-
+https://www.youtube.com/watch?v=T5zuMJS2SXs&feature=youtu.be
 
 ## Build information
 JavaSE-21
